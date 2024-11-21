@@ -1,0 +1,7 @@
+vscode:
+  extensions:
+    - rust-lang.rust-analyzer-yaml
+
+image:
+  file: .gitpod.Dockerfile
+
